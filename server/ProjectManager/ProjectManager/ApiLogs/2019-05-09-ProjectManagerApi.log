@@ -30,3 +30,569 @@ Controller : ProjectManager.Controllers.ProjectController
 Action : RetrieveProjects
 Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
 
+2019-05-09 01:32:29.7084|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000004-0001-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/user/add
+Controller : ProjectManager.Controllers.UserController
+Action : InsertUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:32:29.8652|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000004-0001-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/user/add
+Controller : ProjectManager.Controllers.UserController
+Action : InsertUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:32:35.5867|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:32:35.5867|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:05.0291|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000007-0001-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/user/delete
+Controller : ProjectManager.Controllers.UserController
+Action : DeleteUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:05.7306|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:05.7306|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:10.6493|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000a-0001-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/user/delete
+Controller : ProjectManager.Controllers.UserController
+Action : DeleteUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:10.7943|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000b-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:10.7943|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000b-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:19.7904|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:19.7904|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:19.7904|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000011-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:19.8574|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000011-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:40.0872|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000013-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/add
+Controller : ProjectManager.Controllers.ProjectController
+Action : InsertProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:40.0872|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000013-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/add
+Controller : ProjectManager.Controllers.ProjectController
+Action : InsertProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:40.4355|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000014-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:40.4525|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000014-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:40.5375|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:40.5375|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:47.1338|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0001-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/delete
+Controller : ProjectManager.Controllers.ProjectController
+Action : DeleteProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:34:47.1878|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 8000000f-0001-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/delete
+Controller : ProjectManager.Controllers.ProjectController
+Action : DeleteProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Value cannot be null.
+Parameter name: User related to the project cannot be null
+
+
+2019-05-09 01:35:18.3727|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000011-0001-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/update
+Controller : ProjectManager.Controllers.ProjectController
+Action : UpdateProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:35:18.3727|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000011-0001-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/update
+Controller : ProjectManager.Controllers.ProjectController
+Action : UpdateProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:35:18.6517|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000012-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:35:18.6517|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000012-0001-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:35:18.6517|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000015-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:35:18.6987|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000015-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:35:23.3087|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000017-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/delete
+Controller : ProjectManager.Controllers.ProjectController
+Action : DeleteProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:35:23.3227|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000017-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/delete
+Controller : ProjectManager.Controllers.ProjectController
+Action : DeleteProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Value cannot be null.
+Parameter name: User related to the project cannot be null
+
+
+2019-05-09 01:35:36.0462|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000019-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/delete
+Controller : ProjectManager.Controllers.ProjectController
+Action : DeleteProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:35:36.0602|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000019-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/project/delete
+Controller : ProjectManager.Controllers.ProjectController
+Action : DeleteProjectDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Value cannot be null.
+Parameter name: User related to the project cannot be null
+
+
+2019-05-09 01:35:58.5934|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001a-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:35:58.5934|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001a-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:17.3776|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001c-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/task/add
+Controller : ProjectManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:17.3816|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001c-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/task/add
+Controller : ProjectManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:25.1437|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001d-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:25.1517|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001d-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:38.6446|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001e-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:38.6496|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001e-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:45.1869|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001f-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/task?projectId=3
+Controller : ProjectManager.Controllers.TaskController
+Action : RetrieveTaskByProjectId
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:45.1929|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001f-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/task?projectId=3
+Controller : ProjectManager.Controllers.TaskController
+Action : RetrieveTaskByProjectId
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:54.6867|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000020-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:36:54.6867|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000020-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:30.9263|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000021-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:30.9323|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000021-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:35.5441|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000023-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/task/add
+Controller : ProjectManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:35.5521|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000023-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/task/add
+Controller : ProjectManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:37.7010|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000024-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:37.7010|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000024-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:41.9555|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000025-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/task?projectId=3
+Controller : ProjectManager.Controllers.TaskController
+Action : RetrieveTaskByProjectId
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:41.9595|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000025-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/task?projectId=3
+Controller : ProjectManager.Controllers.TaskController
+Action : RetrieveTaskByProjectId
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:48.2306|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000027-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/task/update
+Controller : ProjectManager.Controllers.TaskController
+Action : UpdateTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:37:48.2306|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000027-0003-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/task/update
+Controller : ProjectManager.Controllers.TaskController
+Action : UpdateTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:54:04.2411|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000007-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:54:04.2411|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000007-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:54:17.2150|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:54:17.2150|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:55:27.8523|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:55:27.8523|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:17.5538|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000a-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:17.5538|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000a-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:30.8378|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0000-f700-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/user/update
+Controller : ProjectManager.Controllers.UserController
+Action : UpdateUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:30.8378|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0000-f700-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/user/update
+Controller : ProjectManager.Controllers.UserController
+Action : UpdateUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:30.9918|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:30.9918|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:53.8011|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0000-f700-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/user/update
+Controller : ProjectManager.Controllers.UserController
+Action : UpdateUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:53.8071|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0000-f700-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/user/update
+Controller : ProjectManager.Controllers.UserController
+Action : UpdateUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:53.8991|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000010-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-05-09 01:57:53.8991|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000010-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
